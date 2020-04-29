@@ -9,8 +9,8 @@ public class Addition implements MethodCall{
 	@Override
 	public double execute(double a, double b) {
 		// TODO Auto-generated method stub
-		
-		return a+b;
+		return 0.0;
+		//return a+b;
 	}
 
 }
